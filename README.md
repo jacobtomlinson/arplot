@@ -1,5 +1,7 @@
 # arplot
 
+> ⚠️ Experimental: This demo was thrown together as part of a hack morning.
+
 An augmented reality plotting library for [iris](https://scitools-iris.readthedocs.io/en/stable/).
 
 ![](https://i.imgur.com/XBFZp7X.gif)
