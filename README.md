@@ -2,7 +2,7 @@
 
 An augmented reality plotting library for [iris](https://scitools-iris.readthedocs.io/en/stable/).
 
-![](https://i.imgur.com/XBFZp7X.gifv)
+![](https://i.imgur.com/XBFZp7X.gif)
 
 ## Usage
 
